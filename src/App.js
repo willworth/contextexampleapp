@@ -79,7 +79,7 @@ class App extends Component {
 
         <div className="App">
           <h1>This is a react context example app.</h1>
-          <p>You can see the source code on github.</p>
+          <p>You can see the source code on <a href="https://github.com/willworth/contextexampleapp">github</a>.</p>
           <p>You may also want the <a href="https://reactjs.org/docs/context.html">
             Official Context Docs
                     </a></p>
